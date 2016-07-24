@@ -3,7 +3,7 @@
 #### For Submission: Matlab & Simulink Low Cost Hardware Challenge
 #### Author: James Megariotis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bBDBOt8wlIQ" frameborder="0" allowfullscreen></iframe>
+##### Click Here For Video Description of Submission: [Inverted Pendulum Robot Submission Video](https://www.youtube.com/watch?v=bBDBOt8wlIQ)
 
 ###Instructions for Standalone Use:
 ________________________________
@@ -12,7 +12,7 @@ ________________________________
 
   - The Files contained in the ReadQuadratureEncoders_S-function_Files folder must be included in the (moved to the) working directory where the Standalone file is located.
   
-  **OR**
+    **OR**
   - The read_quad_encoder block in the "Standalone" file must be built before the model is deployed.
 
 2. When ready, use the "deploy to hardware" button on the simulink toolbar. Simulation mode must be set to "Normal". Errors will occur in any other mode.
