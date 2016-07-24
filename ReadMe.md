@@ -3,7 +3,8 @@
 #### For Submission: Matlab & Simulink Low Cost Hardware Challenge
 #### Author: James Megariotis
 
-##### Click Here For Video Description of Submission: [Inverted Pendulum Robot Submission Video](https://www.youtube.com/watch?v=bBDBOt8wlIQ)
+##### Click Here For Video Description of Submission:
+[![Inverted Pendulum Robot Submission Video](https://img.youtube.com/vi/bBDBOt8wlIQ/0.jpg)](https://www.youtube.com/watch?v=bBDBOt8wlIQ)
 
 ###Instructions for Standalone Use:
 ________________________________
